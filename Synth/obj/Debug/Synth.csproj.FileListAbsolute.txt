@@ -1,0 +1,5 @@
+c:\users\tummyacid\documents\visual studio 2015\Projects\Synth\Synth\bin\Debug\Synth.exe.config
+c:\users\tummyacid\documents\visual studio 2015\Projects\Synth\Synth\bin\Debug\Synth.exe
+c:\users\tummyacid\documents\visual studio 2015\Projects\Synth\Synth\bin\Debug\Synth.pdb
+c:\users\tummyacid\documents\visual studio 2015\Projects\Synth\Synth\obj\Debug\Synth.exe
+c:\users\tummyacid\documents\visual studio 2015\Projects\Synth\Synth\obj\Debug\Synth.pdb
